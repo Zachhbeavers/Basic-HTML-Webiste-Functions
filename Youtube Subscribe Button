@@ -1,0 +1,27 @@
+<style>
+  .subscribe {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    cursor: pointer;
+  }
+</style>
+
+<button class="subscribe">
+  SUBSCRIBE
+</button>
+
+
+<-- to change the link to the attributes to a differnent button change the class name by replacing "subscribe" to whatever you want on line 13 -->
+<-- then change the route of the actual infulence of the attributes to the button by replacing the ."subscribe" to the same thing as the class -->
+
+<-- background-color: changes the background color of the button -->
+<-- color: changes the font color -->
+<-- border: changes how big the border is of the button -->
+<-- height: changes how tall the button is -->
+<-- width: changes how wide the button is -->
+<-- border-radius: changes if the corners of the button are curved -->
+<-- cursor: changes the properties of the mouse cursor -->
