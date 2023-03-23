@@ -1,0 +1,4 @@
+<button>This is a Button</button>
+
+<-- a button that has no functionality other than being a button -->
+<-- to change the buttons text, just replace where it says "This is a Button" -->
